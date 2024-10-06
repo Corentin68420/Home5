@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177310005845",
+    "project_id": "recapeps",
+    "storage_bucket": "recapeps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177310005845:android:36abb0b61a149d5ffc32dc",
+        "android_client_info": {
+          "package_name": "com.univlorraine.recapeps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-CXZt7t3_XHGoGZ9nLoh1P8IhEEGYRZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
